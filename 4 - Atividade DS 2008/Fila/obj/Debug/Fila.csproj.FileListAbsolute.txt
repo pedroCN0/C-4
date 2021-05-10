@@ -1,0 +1,80 @@
+C:\Users\Tecnico\Desktop\Fila\Fila\bin\Debug\Fila.exe.config
+C:\Users\Tecnico\Desktop\Fila\Fila\bin\Debug\Fila.exe
+C:\Users\Tecnico\Desktop\Fila\Fila\bin\Debug\Fila.pdb
+C:\Users\Tecnico\Desktop\Fila\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\Fila\Fila\obj\Debug\Fila.exe
+C:\Users\Tecnico\Desktop\Fila\Fila\obj\Debug\Fila.pdb
+H:\Fila\Fila\bin\Debug\Fila.exe.config
+H:\Fila\Fila\bin\Debug\Fila.exe
+H:\Fila\Fila\bin\Debug\Fila.pdb
+H:\Fila\Fila\obj\Debug\Fila.csprojAssemblyReference.cache
+H:\Fila\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+H:\Fila\Fila\obj\Debug\Fila.exe
+H:\Fila\Fila\obj\Debug\Fila.pdb
+F:\Técnico\Fila\Fila\bin\Debug\Fila.exe.config
+F:\Técnico\Fila\Fila\obj\Debug\Fila.exe
+F:\Técnico\Fila\Fila\obj\Debug\Fila.pdb
+E:\Técnico\Fila\Fila\bin\Debug\Fila.exe.config
+E:\Técnico\Fila\Fila\obj\Debug\Fila.exe
+E:\Técnico\Fila\Fila\obj\Debug\Fila.pdb
+E:\Técnico\Fila\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
+H:\Técnico\Fila\Fila\obj\Debug\Fila.csprojAssemblyReference.cache
+H:\Técnico\Fila\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+H:\Técnico\Fila\Fila\obj\Debug\Fila.exe
+H:\Técnico\Fila\Fila\obj\Debug\Fila.pdb
+H:\Técnico\Fila\Fila\bin\Debug\Fila.exe.config
+H:\Técnico\Fila\Fila\bin\Debug\Fila.exe
+H:\Técnico\Fila\Fila\bin\Debug\Fila.pdb
+F:\Técnico\Fila\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
+F:\Técnico\Fila\Fila\bin\Debug\Fila.exe
+F:\Técnico\Fila\Fila\bin\Debug\Fila.pdb
+F:\Fila\Fila\bin\Debug\Fila.exe.config
+F:\Fila\Fila\obj\Debug\Fila.exe
+F:\Fila\Fila\obj\Debug\Fila.pdb
+F:\Fila\Fila\bin\Debug\Fila.exe
+F:\Fila\Fila\bin\Debug\Fila.pdb
+F:\Fila\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
+D:\Fila\Fila\bin\Debug\Fila.exe.config
+D:\Fila\Fila\bin\Debug\Fila.exe
+D:\Fila\Fila\bin\Debug\Fila.pdb
+D:\Fila\Fila\obj\Debug\Fila.csprojAssemblyReference.cache
+D:\Fila\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+D:\Fila\Fila\obj\Debug\Fila.exe
+D:\Fila\Fila\obj\Debug\Fila.pdb
+D:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.exe.config
+D:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.exe
+D:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.pdb
+D:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.csprojAssemblyReference.cache
+D:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+D:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.exe
+D:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.pdb
+F:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.exe.config
+F:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.exe
+F:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.pdb
+F:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.exe
+F:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.pdb
+F:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
+E:\OK\Fila OK\Fila\bin\Debug\Fila.exe.config
+E:\OK\Fila OK\Fila\obj\Debug\Fila.exe
+E:\OK\Fila OK\Fila\obj\Debug\Fila.pdb
+E:\OK\Fila OK\Fila\bin\Debug\Fila.exe
+E:\OK\Fila OK\Fila\bin\Debug\Fila.pdb
+E:\OK\Fila OK\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
+E:\Fila OK\Fila\bin\Debug\Fila.exe.config
+E:\Fila OK\Fila\obj\Debug\Fila.exe
+E:\Fila OK\Fila\obj\Debug\Fila.pdb
+E:\Fila OK\Fila\bin\Debug\Fila.exe
+E:\Fila OK\Fila\bin\Debug\Fila.pdb
+E:\Fila OK\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\Fila OK\Fila\bin\Debug\Fila.exe.config
+C:\Users\Tecnico\Desktop\Fila OK\Fila\obj\Debug\Fila.exe
+C:\Users\Tecnico\Desktop\Fila OK\Fila\obj\Debug\Fila.pdb
+C:\Users\Tecnico\Desktop\Fila OK\Fila\bin\Debug\Fila.exe
+C:\Users\Tecnico\Desktop\Fila OK\Fila\bin\Debug\Fila.pdb
+C:\Users\Tecnico\Desktop\Fila OK\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
+E:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.exe.config
+E:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.exe
+E:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.pdb
+E:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.exe
+E:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\bin\Debug\Fila.pdb
+E:\1 - ETEC\1 - Desenvolvimento de Sistemas\3 - Atividade DS 2008\Fila\obj\Debug\Fila.csprojResolveAssemblyReference.cache
